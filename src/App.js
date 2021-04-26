@@ -21,7 +21,7 @@ function App() {
               console.log(result);
           });
     }
-  }
+  };
 
   const dateBuilder=(d)=>{
     let months=["january","february","march","april","may","june","july","august","september","october","november","december"];
