@@ -53,6 +53,7 @@ function App() {
           <div className="weather">Sunny</div>
         </div>
       </main>
+      <h1>Hello</h1>
     </div>
   );
 }
